@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/surendradr12/Demo%20Pipeline%20Project/_apis/build/status/surendrareddydv.pipelines-java?branchName=main)](https://dev.azure.com/surendradr12/Demo%20Pipeline%20Project/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
