@@ -8,7 +8,7 @@ trigger:
 strategy:
  matrix:
    linux:
-      imageName: "ubentu latest"
+      imageName: "ubuntu latest"
    windows:
       imageName: "windows-latest"
 pool:
